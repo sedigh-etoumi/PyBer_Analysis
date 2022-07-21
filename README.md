@@ -9,6 +9,8 @@ Results:
     The Suburban rides in the middle with 625 rides, 490 total drivers and $19,356. 
     The Rural rides the lowest total rides with 125, total number of drivers 78 and total fares $4,327.
     the following table and chart have more details and statistics including the average fare per ride and per driver.
+    
+    ![](https://github.com/sedigh-etoumi/School_District_Analysis/blob/main/pyber_summary_df.png)
 
 Summary: form the analysis that we did, the Urban city type is performing good and the highest and it makes the main revenue for the company,
          so my recommendation is trying to keep on the same level, and about the Suburban and Rural, they should try to invest more in both types by encourage more                drivers to get more revenues from theses city types.       
