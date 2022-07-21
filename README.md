@@ -13,6 +13,5 @@ Results:
 
 Summary: form the analysis that we did, the Urban city type is performing good and the highest and it makes the main revenue for the company,
          so my recommendation is trying to keep on the same level, and about the Suburban and Rural, they should try to invest more in both types by encourage more                drivers to get more revenues from theses city types. 
-                 
                 ![](https://github.com/sedigh-etoumi/PyBer_Analysis/blob/main/Total%20Fare%20By%20City%20Type.png)
                 
